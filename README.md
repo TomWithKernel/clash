@@ -53,4 +53,11 @@ FATA[0030] Initial configuration directory error: can't initial MMDB: can't down
   ./cfw #运行clash for Windows
   ```
 
+
+- 合并client
+
+  ```shell
+  cat Clash_client_* > Clash_client.tar.gz
+  ```
+
   
