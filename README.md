@@ -60,4 +60,7 @@ FATA[0030] Initial configuration directory error: can't initial MMDB: can't down
   cat Clash_client_* > Clash_client.tar.gz
   ```
 
-  
+
+- 中文汉化
+
+  将resources中的app.asar进行替换
