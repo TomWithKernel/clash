@@ -1,6 +1,6 @@
 ### linux 配置 clash
 
-首先去[clash](https://github.com/doreamon-design/clash/releases 作者：心一信息 https://www.bilibili.com/read/cv28866729/ 出处：bilibili)下载与自己系统架构符合的安装包
+首先去[clash](https://github.com/doreamon-design/clash/releases)下载与自己系统架构符合的安装包
 
 - 安装
 
