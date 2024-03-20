@@ -37,7 +37,7 @@ FATA[0030] Initial configuration directory error: can't initial MMDB: can't down
 
   配置如图
 
-  ![proxy](/media/uos/work_kernel/my_github/clash/proxy.png)
+  ![proxy](./proxy.png)
 
   - 错误解决
 
